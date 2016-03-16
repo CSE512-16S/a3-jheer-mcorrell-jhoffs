@@ -9,6 +9,8 @@ a3-jheer-mcorrell-jhoffs
 
 ## Project Name
 
+![Thumbnail](thumbnail.png)
+
 This is an example repository for your assignment 3 submission.
 (Put your a brief description of your final interactive visualization application and your dataset here.)
 
